@@ -1,2 +1,3 @@
 # Example-repositry
-my first repository : Himalaya Sharma
+my first repository :
+Himalaya Sharma
